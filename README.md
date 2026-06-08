@@ -1,1 +1,1 @@
-# argentina-patents-summer-class
+# argentina-project-summer-class
