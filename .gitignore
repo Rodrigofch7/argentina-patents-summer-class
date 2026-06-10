@@ -1,0 +1,11 @@
+data/
+*.dta
+*.xlsx
+*.csv
+*.pdf
+*.docx
+*.png
+.venv/
+__pycache__/
+*.pyc
+output/
