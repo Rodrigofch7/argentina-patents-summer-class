@@ -1,8 +1,7 @@
 import pyreadstat
 import pandas as pd
 from pathlib import Path
-
-BASE = Path.home() / "argentina-rct/data"
+from config import DATA_DIR as BASE, OUT_DIR as OUTDIR, TREAT_MAP
 
 # ── 1. RANDOMIZATION FILE ────────────────────────────────────
 print("=" * 50)
